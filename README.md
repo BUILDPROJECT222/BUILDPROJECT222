@@ -1,6 +1,20 @@
-# 👋 Hi, I'm Kuyol
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Kuyol;Full+Stack+Developer;Blockchain+Enthusiast)](https://git.io/typing-svg)
+  
+  <img src="https://komarev.com/ghpvc/?username=kuyol&style=flat-square&color=blue" alt=""/>
+</div>
 
 Welcome to my GitHub repository! I'm a full-stack developer passionate about creating innovative solutions using modern technologies.
+
+<!-- GitHub Stats with Animations -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuyol&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kuyol&theme=darkhub&no-frame=true&row=1&&margin-w=30&no-bg=true">
+</p>
 
 ## 🚀 Tech Stack
 
@@ -45,7 +59,19 @@ Welcome to my GitHub repository! I'm a full-stack developer passionate about cre
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/-Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
 
+<!-- Activity Graph -->
+[![Kuyol's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kuyol&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 📫 Get in Touch
+
+<p align="center">
+  <a href="your-linkedin-url">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 Feel free to reach out if you'd like to collaborate on projects or just want to chat about technology!
 
@@ -53,5 +79,19 @@ Feel free to reach out if you'd like to collaborate on projects or just want to 
 
 _Coming soon..._
 
+<!-- Animated Snake Game with Contribution Graph -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="snake">
+</div>
+
+<!-- Dynamic Quote -->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 ---
-⭐️ From [Kuyol](https://github.com/YourGitHubUsername)
+<div align="center">
+  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+  <br />
+</div>
+
+⭐️ From [Kuyol](https://github.com/kuyol)
