@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=console.log(%22Hello%2C+World!%22);const+developer+%3D+%22Kuyol%22;while(coding)+%7B+enjoy()+%7D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=console.log(%22Hello%2C+World!%22);const+developer+%3D+%22Jimy%22;while(coding)+%7B+enjoy()+%7D)](https://git.io/typing-svg)
 
       /\     /\
      /  \   /  \
@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kuyol&style=for-the-badge&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Jimy&style=for-the-badge&color=blue" alt=""/>
   <a href="your-linkedin-url">
     <img src="https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -31,7 +31,7 @@ I'm a developer who turns ☕ into `<code/>`. When I'm not crafting digital expe
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,python,solidity,docker,graphql" />
 </p>
 
-const kuyol = {
+const Jimy = {
   languages: ['JavaScript', 'TypeScript', 'Python', 'Solidity'],
   architecture: ['microservices', 'blockchain', 'web3'],
   tools: {
@@ -74,7 +74,7 @@ const kuyol = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuyol&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jimy&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🎯 Current Focus
@@ -89,7 +89,7 @@ while alive:
 
 ### Let's build something amazing together! 🚀
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/kuyol)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Jimy)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your.email@gmail.com)
 
 </div>
